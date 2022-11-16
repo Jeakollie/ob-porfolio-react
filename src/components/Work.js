@@ -9,20 +9,17 @@ export default function Work() {
 
         <details class="px-6 py-4">
           <summary class="font-bold text-2xl text-gray-800">Optechsol</summary>
-          <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
-            pavilions, award-winning fireworks and seasonal special events.</p>
+          <p>Optechsol is a multi-tech company that provides excellent and affordable electrical, technical, technological, and tech consultancy services.</p>
         </details>
 
         <details class="px-6 py-4">
           <summary class="font-bold text-2xl text-gray-800">Optimo Store</summary>
-          <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
-            pavilions, award-winning fireworks and seasonal special events.</p>
+          <p>Optimo Store is an online store that provides diverse range of products for online buyers and also do excellent and free delivery.</p>
         </details>
 
         <details class="px-6 py-4">
           <summary class="font-bold text-2xl text-gray-800">Optransol</summary>
-          <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international
-            pavilions, award-winning fireworks and seasonal special events.</p>
+          <p>Optransol is a Liberian transport company that provides excellent, affordable, and pleasantish transport services around Liberia.</p>
         </details>
 
       </div>
